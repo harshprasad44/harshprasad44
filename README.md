@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @harshprasad44
-- 👀 I’m interested in Web Development, I love FrontEnd frameworks but I can work as a BackEnd developer as well..
-- 🌱 I’m currently learning Vue.js
-- 💞️ I’m looking to collaborate on projects
+- 👀 I am a Web Developer, especially a FrontEnd Web Developer, but I can work as a BackEnd developer too. It's just that I find FrontEnd more suitable for me. MERN Stack is something I love the most. Apart from that, I also work with Angular and Vue.js.
+- 🌱 I’m currently preparing for my University placements.
+- 💞️ I’m also looking to collaborate on projects.
 - 📫 Drop me a mail @ explorerharsh@gmail.com
 
 <!---
